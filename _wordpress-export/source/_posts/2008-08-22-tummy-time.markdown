@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Tummy Time"
+date: 2008-08-22 05:52:49
+---
+Rowan has discovered that rolling onto his stomach is something he would like to get used to doing.Â  Yesterday Rowan rolled from his back to tummy for the first time while playing with his toys.Â  It was very exciting to watch!Â  I couldn't get him to repeat the act however last night as he was trying to sleep, rolling over seemed to be first on his mind.Â  Between 10:00 and 11:00 Rowan woke up 5 or 6 times and each time that I checked on him he was trying his hardest to roll over to his tummy.Â  I think the great effort was waking him up.Â  We finally got him settled on his back and he slept 'till about 4:00am.Â  At that point Kirby got up and rocked him for a while and then put him back in his crib.Â  The next thing I knew, I rolled over in bed and saw that the clock said 7:18am!Â  Rowan was still asleep?Â  No way!Â  So I went to check on him and there he was in his crib, sound asleep on his tummy!Â  He slept 'till after 8:00!!!! I know that babies shouldn't be put to sleep on their stomachs...that is why we put him down on his back.Â  But hey, if he is going to roll over himself and possibly sleep better, I am all for it.Â  I'm proud of Rowan and his newly learned skill!
