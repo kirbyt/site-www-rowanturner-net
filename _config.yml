@@ -1,7 +1,8 @@
 # Site settings
 title: Rowan T
 email: rowan@thecave.com
-description: "Rowan T’s world through the eyes of Mamma and Papa T."
+description: "Rowan T’s world through the eyes of Mommy and Daddy T."
+author: Daddy T
 baseurl: ""
 url: "http://www.rowanturner.net"
 header-img: "img/home-bg.jpg"

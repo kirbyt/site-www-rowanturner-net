@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "Rowan T’s world through the eyes of Mamma and Papa T"
+description: "Rowan T’s world through the eyes of Mommy and Daddy T"
 header-img: "img/home-bg.jpg"
 ---
 
@@ -18,7 +18,7 @@ header-img: "img/home-bg.jpg"
         {{ post.excerpt }}
         Read more...
     </a>
-    <p class="post-meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.author }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
 {% endfor %}
