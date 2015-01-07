@@ -11,7 +11,7 @@
 # {% vimeo oHg5SJYRHA0 500 400 %}
 #
 
-class YouTube < Liquid::Tag
+class Vimeo < Liquid::Tag
   Syntax = /^\s*([^\s]+)(\s+(\d+)\s+(\d+)\s*)?/
  
   def initialize(tagName, markup, tokens)
