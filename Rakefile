@@ -41,10 +41,10 @@ task :new_post, :title do |t, args|
     post.puts "layout: post"
     post.puts "title: \"#{title.titleize.gsub(/&/,'&amp;')}\""
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
-    post.puts "categories: "
+    post.puts "excerpt: "
     post.puts "---"
   end
-  system "~/bin/subl --new-window #{filename}"
+  system "~/bin/subl --new-window . --add #{filename}"
 end
 
 desc "Generate jekyll site"
