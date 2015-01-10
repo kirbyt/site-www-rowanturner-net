@@ -3,7 +3,6 @@ layout: post
 title: "Friday Program"
 date: 2015-01-10 14:57:34 -0500
 header-img: "img/2015-01-10-img-01.jpg"
-excerpt: 
 ---
 There are many things we like about living in Stowe, and one of those things is the public school system. And there are many things we like about the Stowe schools, and one of those things is Friday Program. 
 
