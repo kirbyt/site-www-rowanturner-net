@@ -10,9 +10,9 @@ twitter_username: rowan_t
 # github_username:  davidtmiller
 # facebook_username:  IronSummitMedia
 
-# Set background image count to the number of bg-NN.jpg images.
+# Set header image count to the number of bg-NN.jpg images.
 # This will randomly select a header image when none is specified.
-backgroundImageCount: 3
+headerImageCount: 3
 
 # Build settings
 markdown: kramdown
