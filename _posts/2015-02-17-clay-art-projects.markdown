@@ -9,7 +9,13 @@ For the last few weeks Rowan has been taking a clay art class at the [Helen Day 
 
 ![][1]
 
-He enjoys working with clay, and he made it clear when we filled out the class survey. "What did you like most about the class?" Working with clay. "What did you like the least?" Snack time cause I wanted to get to work. Yep, the kid prefers skipping the after school snack so he can get started on his art projects. That's how much he liked the class. And he is already looking forward to taking another class after the winter break.
+He enjoys working with clay, and he made that fact clear when we filled out the class survey. 
+
+> What did you like most about the class? Working with clay.
+>
+> What did you like the least? Snack time cause I wanted to get to work. 
+
+Yep, the kid prefers skipping the after school snack so he can get started on his art projects. That's how much he liked the class. And he is already looking forward to taking another class after the winter break.
 
 ![][2]
 
