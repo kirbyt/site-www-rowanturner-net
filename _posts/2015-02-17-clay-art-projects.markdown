@@ -5,7 +5,7 @@ date: 2015-02-17 19:21:56 -0500
 excerpt: Rowan brought home his projects from his clay art class.
 header-img: "img/2015-02-17-img-01.jpg"
 ---
-For the last few weeks Rowan has been taking a clay art class at the [Helen Day Art Center][4]. His class meets once a week after school, and today was the last day for this session. That means he gets to bring home the projects he has been working, and it means Melanie and I finally get to see what he has been work on. 
+For the last few weeks Rowan has been taking a clay art class at the [Helen Day Art Center][4]. His class meets once a week after school, and today was the last day for this session. That means he gets to bring home his projects and Melanie and I finally get to see what he has been work on. 
 
 ![][1]
 
