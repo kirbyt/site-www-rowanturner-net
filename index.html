@@ -16,7 +16,9 @@ header-img: "img/home-bg.jpg"
         </h3>
         {% endif %}
         {{ post.excerpt }}
-        Read more...
+
+        <p><a href="{{ post.url | prepend: site.baseurl }}">Continue reading &rarr;</a></p>
+
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.author }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
