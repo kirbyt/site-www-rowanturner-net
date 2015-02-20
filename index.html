@@ -6,20 +6,18 @@ header-img: "img/home-bg.jpg"
 
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">
-            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-        {{ post.excerpt }}
+    <h2 class="post-title">
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    {% if post.subtitle %}
+    <h3 class="post-subtitle">
+        {{ post.subtitle }}
+    </h3>
+    {% endif %}
+    {{ post.excerpt }}
 
-        <p><a href="{{ post.url | prepend: site.baseurl }}">Continue reading &rarr;</a></p>
+    <p><a href="{{ post.url | prepend: site.baseurl }}">Continue reading &rarr;</a></p>
 
-    </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.author }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
