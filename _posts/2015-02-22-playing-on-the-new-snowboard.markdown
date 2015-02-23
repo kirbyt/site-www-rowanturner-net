@@ -2,6 +2,7 @@
 layout: post
 title: "Playing On The New Snowboard"
 date: 2015-02-22 18:58:55 -0500
+header-img: "2015-01-19-img-01.jpg"
 ---
 Rowan has outgrown his snowboard, so we picked up a new one for him today. Thankfully he has a seasonal rental, so it doesn't cost us anything to swap out boards.
 
