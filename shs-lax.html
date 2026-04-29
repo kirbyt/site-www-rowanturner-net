@@ -166,7 +166,7 @@ footer { text-align:center; color:var(--muted); font-size:12px;
 <header>
   <div>
     <h1>Carter — Goalie Shot Chart</h1>
-    <div class="subtitle">Generated 2026-04-29 02:21<span class="meta-pill" id="header-shots">— shots</span></div>
+    <div class="subtitle">Generated 2026-04-29 03:32<span class="meta-pill" id="header-shots">— shots</span></div>
   </div>
   <div class="filter-wrap">
     <label for="filter">Game:</label>
@@ -332,10 +332,8 @@ function singleColorScale(p, color) {
 // -----------------------------------------------------------------------
 function buildFilter() {
   const sel = document.getElementById("filter");
-  const opts = [{name:"All Games", subtitle:"season totals"}].concat(
-    GAMES.map(g => ({name: g.name, subtitle: g.opponent || ""})));
-  sel.innerHTML = opts.map(o =>
-    `<option value="${o.name}">${o.name}${o.subtitle ? " — " + o.subtitle : ""}</option>`).join("");
+  const opts = ["All Games"].concat(GAMES.map(g => g.name));
+  sel.innerHTML = opts.map(o => `<option value="${o}">${o}</option>`).join("");
   sel.addEventListener("change", e => { currentFilter = e.target.value; render(); });
 }
 
