@@ -7,4 +7,4 @@ Yesterday was the last day for [Friday Program][1] this season, so we celebrated
 
 {% vimeo 122814783 %}
 
-[1]: http://www.rowanturner.net/2015/01/10/friday-program/
+[1]: http://www.rowanturner.com/2015/01/10/friday-program/
