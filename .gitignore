@@ -1,2 +1,8 @@
 _site/*
 _deploy/*
+.bundle/
+vendor/
+node_modules/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
