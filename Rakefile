@@ -50,7 +50,7 @@ end
 desc "Generate jekyll site"
 task :generate do
   puts "## Generating Site with Jekyll"
-  system "jekyll build"
+  system "bundle exec jekyll build"
 end
 
 desc "Generate and deploy jekyll site to Github Pages"
